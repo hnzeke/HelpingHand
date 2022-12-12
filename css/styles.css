@@ -298,3 +298,7 @@ width: 600px;
     text-align: center;
     font-size: 45px;
 }
+
+* {
+    font-family: Helvetica, Helvetica, sans-serif;
+}
