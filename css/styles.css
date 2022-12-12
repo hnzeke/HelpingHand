@@ -51,6 +51,13 @@ button {
     background-color:rgb(157, 157, 255);
     font-weight: 800;
     border: 0;
+    box-sizing: border-box;
+}
+
+button a {
+    display: block;
+    box-sizing: border-box;
+    text-decoration: none;
 }
 
 img {
@@ -116,20 +123,9 @@ width: 600px;
     padding: 40px;
 }
 
-button {
-    margin-top: 20px;
-    padding: 10px 60px;
-    border-radius: 25px;
-    background-color:rgb(157, 157, 255);
-    font-weight: 800;
-    border: 0;
-}
-
 img {
     padding: 40px;
 }
-
-
 
 #header{
     text-align: center;
@@ -186,20 +182,6 @@ width: 600px;
     flex-direction: column;
     justify-content: center;
     padding: 40px;
-}
-
-button {
-    margin-top: 20px;
-    padding: 10px 60px;
-    border-radius: 25px;
-    background-color:rgb(157, 157, 255);
-    font-weight: 800;
-    border: 0;
-}
-
-button a {
-    display: block;
-    text-decoration: none;
 }
 
 img {
