@@ -52,13 +52,9 @@ button {
     font-weight: 800;
     border: 0;
     box-sizing: border-box;
+    cursor: pointer;
 }
 
-button a {
-    display: block;
-    box-sizing: border-box;
-    text-decoration: none;
-}
 
 img {
     padding: 40px;
