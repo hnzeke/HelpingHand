@@ -18,7 +18,7 @@ a {
 }
 
 a:hover{
-    text-decoration: underline;
+    opacity: 0.4
 }
 
 #pageContainer{
@@ -195,6 +195,11 @@ button {
     background-color:rgb(157, 157, 255);
     font-weight: 800;
     border: 0;
+}
+
+button a {
+    display: block;
+    text-decoration: none;
 }
 
 img {
