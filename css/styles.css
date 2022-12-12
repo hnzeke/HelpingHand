@@ -275,6 +275,7 @@ width: 600px;
 #contactContainer{
     display: flex;
     justify-content: center;
+    flex-direction: column;
 }
 #phone{
     width: 20px;
