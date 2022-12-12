@@ -17,7 +17,7 @@ a {
 
 }
 
-a:hover{
+li a:hover{
     opacity: 0.4
 }
 
@@ -55,6 +55,9 @@ button {
     cursor: pointer;
 }
 
+button:hover {
+    opacity: 0.4;
+}
 
 img {
     padding: 40px;
