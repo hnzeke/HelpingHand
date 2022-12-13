@@ -6,7 +6,7 @@
     background-color: white;
 }
 
-/* Navivation Bar */
+/* Navivation Bar Section*/
 
 ul {
     list-style: none;
@@ -29,6 +29,7 @@ li a:hover{
     opacity: 0.4 
 }
 
+/* Logo Section*/
 
 #logo{
     width: 300px;
@@ -39,8 +40,14 @@ li a:hover{
     justify-content: center;
 }
 
+/* School Info/ Donate Section */
+
 .container {
     display: flex;
+}
+
+div.container img {
+    padding: 40px;
 }
 
 .schtext {
@@ -114,28 +121,13 @@ button:hover {
     justify-content: center;
 }
 
-#Us{
-    text-align: center;
-    border-width: 1px;
-    width: 600px;
-}
-
 #Aboutus{
     display: flex;
     justify-content: center;
 }
 
-img {
-    padding: 40px;
-}
+/* Contact Us Section*/
 
-#Us{
-    text-align: center;
-    border-width: 1px;
-    width: 600px;
-}
-
-/* contact us */
 .contact{
     display: flex;
     justify-content: center;
