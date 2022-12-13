@@ -6,7 +6,7 @@
     background-color: white;
 }
 
-/* Navivation Bar Section*/
+/*Navivation Bar Section*/
 
 ul {
     list-style: none;
@@ -29,7 +29,7 @@ li a:hover{
     opacity: 0.4 
 }
 
-/* Logo Section*/
+/*Logo Section*/
 
 #logo{
     width: 300px;
@@ -40,7 +40,7 @@ li a:hover{
     justify-content: center;
 }
 
-/* School Info/ Donate Section */
+/*School Info/ Donate Section*/
 
 .container {
     display: flex;
@@ -71,6 +71,8 @@ button {
 button:hover {
     opacity: 0.4;
 }
+
+/*Mission Statement Section*/
 
 #header{
     text-align: center;
@@ -126,7 +128,7 @@ button:hover {
     justify-content: center;
 }
 
-/* Contact Us Section*/
+/*Contact Us Section*/
 
 .contact{
     display: flex;
