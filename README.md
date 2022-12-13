@@ -1,0 +1,8 @@
+# HelpingHand
+This webpage was built by my group and I during TXT’s 2022 Hustle N’ Code Hackathon and it won us 1st place! We developed a webpage under a fake company whose goal was to stop underfunding for education in disadvantaged communities by raising funds through crowdfunding. 
+
+I was a volunteer who was assigned the position of lead developer of my group. The Hackathon's problem statement was to address an ongoing issue within underprivileged communities.
+
+The first step we took was to brainstorm; during which we came up with the problem we were going to address and how to address it (Underfunding within low-income communities through a webpage). Now that we knew what we were going to build, we needed a reference point. We used GoFundMe as this reference point. Afterwards, we began to sketch what our webpage would look like on paper. After finishing our sketches, it was time to code. I ran into one problem though that threatened our qualification: The IDE I was writing our code in kept glitching and removing/rearranging the code! So I came up with a solution: We would divide the work up and I was going to look over and compile everything after we all had finished our portion.
+
+Compling the code was the second issue that I had to tackle. I had to add, change around, combine and delete classes and css values because each portion had different css declarations. The problems we faced drastically slowed us down, but I assured my team that we would win. The problems slowed us down so much, our presentation to the judges was cut short! In the face of adversity, we still managed to win first place!
