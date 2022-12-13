@@ -1,3 +1,7 @@
+* {
+    font-family: Helvetica, Helvetica, sans-serif;
+}
+
 ul {
     list-style: none;
     display: flex;
@@ -170,8 +174,4 @@ width: 600px;
 #contactUs{
     text-align: center;
     font-size: 45px;
-}
-
-* {
-    font-family: Helvetica, Helvetica, sans-serif;
 }
