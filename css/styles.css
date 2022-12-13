@@ -17,24 +17,24 @@ a {
     text-decoration: none;
     opacity: 100%;
     font-size: 24px;
-
 }
 
 li a:hover{
-    opacity: 0.4
+    opacity: 0.4 
 }
 
 #pageContainer{
     background-color: white;
 }
+
 #logo{
     width: 300px;
 }
+
 #logoContainer{
     display: flex;
     justify-content: center;
 }
-
 
 .container {
     display: flex;
@@ -62,23 +62,24 @@ button:hover {
     opacity: 0.4;
 }
 
-
 #header{
     text-align: center;
-width: 600px;
+    width: 600px;
 }
 
 .jeff{
     text-align: center;
 }
+
 #headerContainer{
     display: flex;
     justify-content: center;
 }
+
 #Us{
-     text-align: center; 
-border-width: 1px;
-width: 600px;
+    text-align: center;
+    border-width: 1px;
+    width: 600px;
 }
 
 .endContainer{
@@ -89,28 +90,33 @@ width: 600px;
     border-radius: 10px;
     margin: 30px;
 }
+
 #endBlockContainer{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
+
 .name{
     font-size: 30px;
     text-decoration: underline;
 }
+
 #mission{
     width: 800px;
 }
+
 #missionContainer{
     display: flex;
     justify-content: center;
 }
 
 #Us{
-     text-align: center;
-border-width: 1px;
-width: 600px;
+    text-align: center;
+    border-width: 1px;
+    width: 600px;
 }
+
 #Aboutus{
     display: flex;
     justify-content: center;
@@ -121,9 +127,9 @@ img {
 }
 
 #Us{
-     text-align: center; 
-border-width: 1px;
-width: 600px;
+    text-align: center;
+    border-width: 1px;
+    width: 600px;
 }
 
 /* contact us */
@@ -138,28 +144,34 @@ width: 600px;
     border-style: solid;
     height: 100px;
 }
+
 .content:hover{
     cursor: pointer;
     text-decoration: underline;
 }
+
 #email{
     width: 50px;
     height: 50px;
 }
+
 .content{
     margin-left: 50px;
-    font-size:  20px;
+    font-size: 20px;
 }
+
 #contactContainer{
     display: flex;
     align-items: center;
     flex-direction: column;
 }
+
 #phone{
     width: 20px;
     height: 30px;
     margin-top: 10px;
 }
+
 #insta{
     width: 40px;
     height: 40px;
@@ -171,6 +183,7 @@ width: 600px;
     font-size: 45px;
     margin: 0;
 }
+
 #contactUs{
     text-align: center;
     font-size: 45px;
