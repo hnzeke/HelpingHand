@@ -2,6 +2,10 @@
     font-family: Helvetica, Helvetica, sans-serif;
 }
 
+#pageContainer{
+    background-color: white;
+}
+
 /* Navivation Bar */
 
 ul {
@@ -25,9 +29,6 @@ li a:hover{
     opacity: 0.4 
 }
 
-#pageContainer{
-    background-color: white;
-}
 
 #logo{
     width: 300px;
