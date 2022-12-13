@@ -3,7 +3,7 @@ ul {
     display: flex;
     justify-content: space-around;
     background-color: white;
-    opacity: 50%;
+    opacity: 0.5;
     border-radius: 25px;
     padding: 10px;
 }
